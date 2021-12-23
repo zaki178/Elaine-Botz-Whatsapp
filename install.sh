@@ -18,6 +18,7 @@ echo "All dependencies have been installed, please run the command \"npm start\"
 
 
 #!/usr/bin/bash
+npm i fs-extra && npm i file-type && npm i node-fetch && npm i awesome-phonenumber && npm i ./converter && npm i figlet && npm i axios && npm i imgbb-uploader && npm i cfonts && npm i spinnies && npm i forn-data && npm i moment-timezone && npm i colors && npm i encodeurl && npm audit && npm audit fix && npm && fund && yarn && clear
 
 tty-clock -s -S -x -c -C 2 -b -B
 npm audit 
